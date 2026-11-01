@@ -1,0 +1,8 @@
+.venv/
+data/
+wandb/
+exp/*/wandb/
+__pycache__/
+*.pkl
+*.zarr
+.DS_Store
